@@ -1,0 +1,144 @@
+body {
+  background-image: linear-gradient(#1FA2FF, #001A3F);
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+div.mainContainer {
+	max-width:1000px;
+	min-width:1000px;
+	margin:auto;
+	border:1px solid black;
+	background-color: white;
+	padding: 10px;
+}
+
+a {
+	color: white;
+}
+
+div.table {
+	display: table;
+}
+
+div.table div.tr {
+	display: table-row;
+}
+
+div.table div.tr div.td {
+	display: table-cell;
+}
+
+.fullWidth {
+	width: 100%;
+}
+
+.fullHeight {
+	height: 100%;
+}
+
+.contactRowHeight {
+	height: 50px;
+}
+
+.contactBottomMargin {
+	margin-bottom: 20px;
+}
+
+.onePxWidth {
+	width: 1px;
+}
+
+.indent {
+	padding-left: 10px;
+}
+
+.vAlignMiddle {
+	vertical-align: middle;
+}
+
+.vAlignTop {
+	vertical-align: top;
+}
+
+.alignLeft {
+	text-align: left;
+}
+
+.alignCenter {
+	text-align: center;
+}
+
+.tabTable {
+	background-color: #001A3F;
+}
+
+.tabRowHeight {
+	height: 50px;
+}
+
+.tabBottomMargin {
+	margin-bottom: 50px;
+}
+
+.tabFont {
+	font-size: 20px;
+	color: white;
+}
+
+.tabLeftPad {
+	padding-left:100px;
+}
+
+.tabRightPad {
+	padding-right:100px;
+}
+
+.tabCenterPad {
+	padding-left:20px;
+}
+
+.footer {
+	background-color: black;
+	margin-top: 50px;
+}
+
+.footerFont {
+	color: white;
+}
+
+.footerServiceRowHeight {
+	height: 30px;
+}
+
+.footerContactRowHeight {
+	height: 35px;
+}
+
+.footerServiceRowHeadingHeight {
+	height: 40px;
+}
+
+.footerMargin {
+	margin: 10px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.blackText {
+	color: black;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+h2 {
+	margin-bottom: 10px;
+}
+
+.noTopMargin {
+	margin-top: 0px;
+}
